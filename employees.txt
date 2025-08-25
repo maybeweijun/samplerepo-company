@@ -1,2 +1,4 @@
 Employees
 Manager: Michael Scott
+Receptionist: Pam
+God: WJ
